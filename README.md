@@ -1,2 +1,2 @@
-# foundation-demo
+# foundation-python-demo
 testing
